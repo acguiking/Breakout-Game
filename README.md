@@ -4,4 +4,5 @@
 ### Fall 2019
 #### Unity is needed to run this application
 
-### Sample breakout game
+### Breakout game
+### Instructions on load
